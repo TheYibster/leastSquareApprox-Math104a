@@ -7,9 +7,7 @@ We will demonstrate the least square approximation along with its usage in real 
 - [Project Title](#project-title)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contact](#contact)
+  - [Reference](#reference)
 
 ## Description
 
@@ -23,6 +21,10 @@ Explain how to install the project. Provide step-by-step instructions if necessa
 
 Provide examples or instructions on how to use the project. Include screenshots if applicable.
 
-## Contact
+## Reference
 
-Provide contact information for the project maintainer or team. This could include email addresses, links to issue trackers, or social media profiles.
+https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/be4bc381d16882e29be12135ca61113a_least_sq_intrpol.pdf
+
+https://en.wikipedia.org/wiki/Bilinear_interpolation
+
+http://pillowlab.princeton.edu/teaching/statneuro2018/slides/notes03b_LeastSquaresRegression.pdf
