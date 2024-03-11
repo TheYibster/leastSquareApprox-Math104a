@@ -28,3 +28,5 @@ https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/be4bc381d16
 https://en.wikipedia.org/wiki/Bilinear_interpolation
 
 http://pillowlab.princeton.edu/teaching/statneuro2018/slides/notes03b_LeastSquaresRegression.pdf
+
+http://parker.ad.siu.edu/Olive/mch12.pdf
